@@ -6,7 +6,7 @@ This repository has been created with the intention to follow up the process to 
 
 On the CSS file has been some minor interventions, like refactoring of unnecessary repeated rules, better specificity on selectors and comments to make the differentiation between semantic elements.
 
-![Screenshot of IDE and the outcome after the refactoring](./challenge//assets/images/outcome.png)
+![Screenshot of IDE and the outcome after the refactoring](./assets/images/outcome.png)
 
 ## Horiseon Website
 
