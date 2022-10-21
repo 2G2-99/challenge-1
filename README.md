@@ -29,4 +29,4 @@ As a marketing company the main achievement is to be updated with the necessary 
 
 This site has been published through GitHub Pages.
 
--   [GitHub Pages]()
+-   [Click here](https://2g2-99.github.io/challenge-1/)
